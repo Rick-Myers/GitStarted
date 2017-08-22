@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("Hello World");
 		System.out.println("Change added on GitHub");
 		System.out.println("Change added on Eclipse and pushed through command line");
+		System.out.println("Commit added via Eclipse with git commit -am");
 	}
 
 }
