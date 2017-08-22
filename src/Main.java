@@ -5,6 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Change added on GitHub");
+		System.out.println("Change added on Eclipse and pushed through command line");
 	}
 
 }
